@@ -1,0 +1,24 @@
+.infoFootnote {
+    display: flex;
+    width: 100%;
+    padding: 50px;
+}
+
+.footnote {
+    display: flex;
+    width: 1920px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 100px;
+}
+
+.footnote text {
+    color: rgba(47, 53, 63, 0.50);
+    text-align: center;
+    font-family: Gilroy, serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
